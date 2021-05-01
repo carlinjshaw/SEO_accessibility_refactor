@@ -21,17 +21,17 @@ https://carlinjshaw.github.io/horiseon-refactor-challenge/
 Unfortunately I did not follow directions by commiting every so often, as I just recently got accustomed to the Git version process. 
 Instead, I kept a log of everything that I did, as shown below:
 
-*added id to the href serach engine link
-*changed title to "Horiseon"
-*added "alt=""" to images and descriptions
-*changed div to header
-*added "Why choose us?" to side bar and added styling to center
-*consolodated class benefits h3 into 1 class instead of 3
-*consolidated class benefits secondary blocks
-*changed some divs to sections
-*changed divs to footers
-*changed div to nav in header
-*changed divs to aside
-*changed section to main (sections are children)
-*consolodated content, benefits, and header styling
-*matched CSS class names to semantics in html
+* added id to the href serach engine link
+* changed title to "Horiseon"
+* added "alt=""" to images and descriptions
+* changed div to header
+* added "Why choose us?" to side bar and added styling to center
+* consolodated class benefits h3 into 1 class instead of 3
+* consolidated class benefits secondary blocks
+* changed some divs to sections
+* changed divs to footers
+* changed div to nav in header
+* changed divs to aside
+* changed section to main (sections are children)
+* consolodated content, benefits, and header styling
+* matched CSS class names to semantics in html
