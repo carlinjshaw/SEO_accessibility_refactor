@@ -18,8 +18,6 @@ https://carlinjshaw.github.io/horiseon-refactor-challenge/
 
 ## Commits and logs
 
-Unfortunately I did not follow directions by commiting every so often, as I just recently got accustomed to the Git version process. 
-Instead, I kept a log of everything that I did, as shown below:
 
 * added id to the href serach engine link
 * changed title to "Horiseon"
